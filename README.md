@@ -1,11 +1,11 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Lorrain Morlet! 👋
 
 ## About Me
-I am currently a student pursuing my degree in Information Technology. I have a strong interest in [specific areas in IT you're interested in, like 'software development', 'data science', 'cybersecurity', etc.]. I'm constantly learning and trying to improve my skills.
+I am currently a student pursuing my degree in Artificial Intelligence at ESILV in Paris. I have a strong interest in AI, software development, data science, cybersecurity, and so much more. I'm constantly learning and trying to improve my skills. 
 
 ## Skills
 Here are some of the skills I currently possess:
-- Programming Languages: [List the programming languages you know]
+- Programming Languages: python, c#, java, javascript, html, 
 - Tools & Technologies: [List the tools and technologies you're familiar with]
 - Other Skills: [List any other relevant skills]
 
