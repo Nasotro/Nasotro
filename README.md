@@ -7,6 +7,7 @@ I am currently a student pursuing my degree in Artificial Intelligence at ESILV 
 Here are some of the skills I currently possess:
 
 - Programming Languages:
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
@@ -16,6 +17,7 @@ Here are some of the skills I currently possess:
 
 
 - Tools & Technologies:
+
 ![Huggingface](https://img.shields.io/badge/-Hugging%20Face-FDB827?logo=hugging-face&logoColor=black)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)
@@ -27,8 +29,10 @@ Here are some of the skills I currently possess:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/-FileZilla-BF0000?logo=filezilla&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Snowflake](https://img.shields.io/badge/-React-61DAFB?logo=Snowflake&logoColor=black)
 
 - Other Skills:
+
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931A?logo=scikit-learn&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-303F9F?logo=openai&logoColor=white)
@@ -39,14 +43,11 @@ Here are some of the skills I currently possess:
 
 ## Projects
 Here are some of the projects I've worked on recently:
-1. [Midi Generate](https://github.com/Nasotro/MidiGen): [It's a project that uses the AI transformer architecture to generate a piano melody in the midi file format]
-2. [Predict soccer games](https://github.com/Nasotro/ProjetFoot): [It's a project that uses sklearn to predict results of french ligue soccer games]
+1. [Midi Generator](https://github.com/Nasotro/MidiGen): It's a project that uses the AI transformer architecture to generate a piano melody in the midi file format
+2. [Predict soccer games](https://github.com/Nasotro/ProjetFoot): It's a project that uses sklearn to predict results of french ligue soccer games
 
 ## Education
-- Ecole Superieur d'Ing?nieurs Leonard de Vinci (ESILV), 2026
-
-## Certifications
-- [Certification Name], [Issuing Authority], [Year]
+- Ecole Superieure d'Ingénieurs Leonard de Vinci (ESILV), 2026
 
 ## Connect with Me
 You can reach me through the following platforms:
@@ -56,10 +57,3 @@ You can reach me through the following platforms:
 ## Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nasotro&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-##  Latest Blog Posts
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-## Languages and Tools:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-[Add more languages and tools as needed]
