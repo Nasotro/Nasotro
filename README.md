@@ -14,6 +14,7 @@ Here are some of the skills I currently possess:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-0175C2?logo=mysql&logoColor=white)
 
 
 - Tools & Technologies:
